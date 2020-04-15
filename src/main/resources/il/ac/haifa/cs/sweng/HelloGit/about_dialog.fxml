@@ -10,6 +10,7 @@
          <children>
             <Label layoutX="14.0" layoutY="14.0" prefHeight="27.0" prefWidth="79.0" text="Yarden Ganon " />
             <Label layoutX="14.0" layoutY="41.0" prefHeight="27.0" prefWidth="116.0" text="Yoav Ben Haim" />
+             <Label layoutX="14.0" layoutY="67.0" prefHeight="27.0" prefWidth="116.0" text="Linoy Moshe" />
          </children>
       </AnchorPane>
    </children>
